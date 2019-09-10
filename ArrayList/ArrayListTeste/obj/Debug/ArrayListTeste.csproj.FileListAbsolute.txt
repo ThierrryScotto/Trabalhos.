@@ -1,0 +1,10 @@
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\bin\Debug\ArrayListTeste.exe.config
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\bin\Debug\ArrayListTeste.exe
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\bin\Debug\ArrayListTeste.pdb
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\obj\Debug\ArrayListTeste.csprojAssemblyReference.cache
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\obj\Debug\ArrayListTeste.Form1.resources
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\obj\Debug\ArrayListTeste.Properties.Resources.resources
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\obj\Debug\ArrayListTeste.csproj.GenerateResource.cache
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\obj\Debug\ArrayListTeste.csproj.CoreCompileInputs.cache
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\obj\Debug\ArrayListTeste.exe
+C:\Users\thierry\source\repos\ArrayListTeste\ArrayListTeste\obj\Debug\ArrayListTeste.pdb
